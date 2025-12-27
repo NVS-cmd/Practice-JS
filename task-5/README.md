@@ -13,3 +13,5 @@
 3. Правый клик на `Main.java` → Run 'Main.main()'
 
 ### Командная строка
+javac -d . src/*.java
+java Main
